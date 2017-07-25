@@ -12,3 +12,5 @@ An Android Project done for Udacity ABND.
 2. Select app -> Tasks -> build -> clean
 3. Double click "Clean"
 4. Success!
+
+:copyright: Prajeet Patibandla @ 2017 
