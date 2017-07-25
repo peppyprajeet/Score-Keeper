@@ -7,5 +7,8 @@ An Android Project done for Udacity ABND.
 2. XML Coding
 3. Java Coding
 
-## Hosting
-You can find the live demo of app here!
+## Cleaning the project 
+1. Open the Gradle Panel
+2. Select app -> Tasks -> build -> clean
+3. Double click "Clean"
+4. Success!
